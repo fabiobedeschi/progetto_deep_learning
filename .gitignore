@@ -1,0 +1,6 @@
+# Project stuff
+dataset*/
+logs/
+models/
+plots/
+*.png
